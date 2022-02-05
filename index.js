@@ -1,5 +1,3 @@
-// remember to turn ur number strings to numbers
-
 const myStorage = window.localStorage;
 
 const game = {

@@ -8,7 +8,7 @@ body{
 .game {
     height: 95vh;
     display: flex;
-    background-image: url(/img/bg/bg-repeatable.png);
+    background-image: url(img/bg/bg-repeatable.png);
     background-size: 12%;
 }
 
